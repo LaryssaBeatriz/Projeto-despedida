@@ -1,0 +1,31 @@
+body{
+    margin: 10vw;
+    background-color: #0A1240;
+}
+main{
+    min-width: fit-content;
+    text-align: center;
+    
+}
+#fundo-mensagem{
+    opacity: 70%;
+    background-color: #fff;
+    border-radius: 5%;
+}
+h1,p{
+    padding: 5vw;
+}
+
+p{
+    margin-top: -2vh;
+    font-size: 1.2em;
+    text-align: justify;
+}
+
+h3{
+    padding-bottom: 1vh;
+    margin-top: -2vh;
+    text-align: left;
+    margin-left: 5vw;
+    font-weight: lighter;
+}
