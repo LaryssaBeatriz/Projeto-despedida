@@ -7,13 +7,13 @@ main{
     text-align: center;
     
 }
-#fundo-mensagem{
+.fundo-mensagem{
     opacity: 70%;
     background-color: #fff;
-    border-radius: 5%;
+    border-radius: 10%;
 }
 h1,p{
-    padding: 5vw;
+    padding: 2.5vw;
 }
 
 p{
