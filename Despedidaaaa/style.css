@@ -10,10 +10,10 @@ main{
 .fundo-mensagem{
     opacity: 70%;
     background-color: #fff;
-    border-radius: 10%;
+    border-radius: 8%;
 }
 h1,p{
-    padding: 5vw;
+    padding: 10vw;
 }
 
 p{
